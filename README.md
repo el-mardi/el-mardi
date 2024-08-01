@@ -1,3 +1,5 @@
+<p align="center">
+
 # 👋 Hi, I'm Ayoub EL MARDI
 
 ## 👨‍💻 Full Stack Developer & Team Lead 
@@ -26,3 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-mardi/)
 
 💼 Open for exciting projects and collaborations!
+
+
+</p>
