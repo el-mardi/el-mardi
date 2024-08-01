@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ayoub EL MARDI
 
-## 👨‍💻 Full Stack Developer & Team Lead | AI Enthusiast
+## 👨‍💻 Full Stack Developer & Team Lead 
 
-🚀 Creating Innovative AI Solutions for Modern Challenges
+🚀Creating Innovative AI Solutions for Modern Challenges
 
 ### 🛠️ Tech Stack
 
