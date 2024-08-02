@@ -18,7 +18,7 @@
 
 ### 🌟 Highlights
 
-- 🧠 Specializing in AI-powered automation solutions
+- 🧠 passionate about AI-powered automation solutions
 - 👥 Experienced team leader fostering innovation and growth
 - 🌐 Full-stack development with a focus on scalable web applications
 - 🚀 Passionate about leveraging technology to solve complex problems
