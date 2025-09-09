@@ -5,7 +5,7 @@
 
 🚀 **Transforming Ideas into Robust Software Solutions**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-elmardiayoub.netlify.app-blue?style=for-the-badge)](https://elmardiayoub.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-elmardiayoub.vercel.app-blue?style=for-the-badge)](https://elmardiayoub.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-mardi/)
 
 ---
@@ -88,7 +88,7 @@ Software Engineer with **3+ years** of experience in backend development and tea
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge)](https://elmardiayoub.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge)](https://elmardiayoub.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-el-mardi/)
 [![Calendar](https://img.shields.io/badge/📅_Schedule-Meeting-green?style=for-the-badge)](https://calendly.com/elmardi-ayoub/30min)
 
