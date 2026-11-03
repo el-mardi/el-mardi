@@ -12,13 +12,14 @@ I build the backend side of real products: sales automation tools, publishing pl
 
 ## What I'm working on
 
-- **Elbotola**: a multilingual football platform (news, live matches, competitions) and **eBotola**, an Arabic gaming publication with a newsroom, scheduled publishing, polls, community features and AI-assisted drafts.
+- **Elbotola Web**: a multilingual football news and statistics web app built with Next.js, React, TypeScript and Tailwind CSS, with Arabic right-to-left support and server-rendered SEO pages.
+- **E-Botola**: a mobile-first Arabic gaming and esports publication built with Next.js, React and TypeScript, with an editorial newsroom, Google and Discord sign-in, polls, comments, moderation and an AI-assisted news pipeline that generates Arabic drafts for editorial review.
 - **Xenith AI**: backends for an AI sales assistant that connects customer records, email and calendars across web and mobile.
 
 ## Experience
 
 **Software Engineer · Elbotola** (2025 to now)
-Sports and gaming platforms, editorial tools and content automation. I architected the Next.js app with server rendering, live-data caching, secure account flows and five-language RTL/LTR support.
+Sports and gaming platforms, editorial tools and content automation. I built a multilingual football news and statistics web app with Next.js, React, TypeScript and Tailwind CSS, covering live matches, standings, teams, players, search, authentication, comments and Arabic right-to-left support.
 
 **Backend Engineer · Xenith AI** (2024 to now, remote)
 Built the web and mobile backends: APIs, databases, Salesforce and Google integrations, and Azure deployment.
